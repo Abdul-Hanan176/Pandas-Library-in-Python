@@ -11,6 +11,7 @@ AINT_4A={
     "Attendance"     :['85%','75%','65%','55%','50%','52%','45%','25%','35%','77%'],
     "Grade"          :['A','B','C','D','D','D','F','F','F','B']
 }
+# DataFrame is equals to the df variable
 df=pd.DataFrame(AINT_4A)
 # print the DataFrame
 df
